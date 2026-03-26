@@ -1,0 +1,14 @@
+# missi-user 15 AQ3A.240912.001 OS2.0.213.0.VMWEUXM release-keys
+- manufacturer: xiaomi
+- platform: parrot
+- codename: river
+- flavor: missi-user
+- release: 15
+- id: AQ3A.240912.001
+- incremental: OS2.0.213.0.VMWEUXM
+- tags: release-keys
+- fingerprint: Redmi//river:14/UKQ1.231003.002/OS2.0.213.0.VMWEUXM:user/release-keys
+- is_ab: true
+- brand: Redmi
+- branch: missi-user-15-AQ3A.240912.001-OS2.0.213.0.VMWEUXM-release-keys
+- repo: redmi_river_dump
